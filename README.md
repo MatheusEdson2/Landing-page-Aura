@@ -36,7 +36,7 @@ O projeto não requer instalação de dependências nem etapa de compilação.
 1. Clone o repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   (https://github.com/MatheusEdson2/Landing-page-Aura.git)
    ```
 
 2. Abra a pasta do projeto no VS Code.
